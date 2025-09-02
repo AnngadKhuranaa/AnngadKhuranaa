@@ -43,6 +43,7 @@ Focused on **Cloud Computing (AWS & Azure), Python Development, and Django Appli
 ## 🌍 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anngad_Khuranaa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anngad-khuranaa-699757306) 
+
 [![Email](https://img.shields.io/badge/Email-anngadkhuranaa210906@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anngadkhuranaa210906@gmail.com)  
 
 
