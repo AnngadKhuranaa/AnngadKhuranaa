@@ -1,52 +1,37 @@
-# Hi, I'm Anngad Khuranaa 
+<div align="center">
+  <img height="500" src="https://images.steamusercontent.com/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+</div>
 
- **Cloud & Software Developer | Aspiring Cloud Architect**  
-Focused on **Cloud Computing (AWS & Azure), Python Development, and Django Applications**  
+###
 
----
+<h1 align="center">Hi, I am Anngad Khuranaa</h1>
 
-## 🌩️ About Me  
-- 🎓 2nd Year CSE (AI & ML) @ Chitkara University  
-- ☁️ Passionate about building scalable cloud solutions using **AWS & Azure**  
-- 🐍 Skilled in **Python & Django** for full-stack web development  
-- 📘 Currently deep-diving into **Cloud Security & DevOps practices**  
+###
 
----
+<h6 align="center">Cloud & Software Developer | Aspiring Cloud Architect<br>Focused on Cloud Computing (AWS & Azure), Python Development, and Django Applications</h6>
 
-## 🛠️ Tech Stack  
+###
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnngadKhuranaa&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnngadKhuranaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-**Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+###
 
-**Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+<div align="center">
+  <a href="www.linkedin.com/in/anngad-khuranaa-699757306" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/anngyatt?igsh=MWt1cnEzb3UycmdqeA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="anngadkhuranaa210906@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/anngadkhuranaa21" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
 
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anngadkhuranaa&show_icons=true&theme=tokyonight" alt="Anngad's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anngadkhuranaa&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
-
----
-
-## 🌍 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anngad_Khuranaa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anngad-khuranaa-699757306) 
-
-[![Email](https://img.shields.io/badge/Email-anngadkhuranaa210906@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anngadkhuranaa210906@gmail.com)  
-
-
----
-
-✨ *“Building the future, one cloud at a time.”*  
+###
